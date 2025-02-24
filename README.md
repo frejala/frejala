@@ -15,6 +15,7 @@ technologies, and learning how things work under the hood.
 
 **Frontend:**
 
+- Next.js
 - React (Hooks, Context API)
 - React Native & Expo
 - Angular
